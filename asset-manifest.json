@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FinalReactProject/static/css/main.2dacb072.chunk.css",
+    "main.js": "/FinalReactProject/static/js/main.56055f36.chunk.js",
+    "main.js.map": "/FinalReactProject/static/js/main.56055f36.chunk.js.map",
+    "runtime-main.js": "/FinalReactProject/static/js/runtime-main.a3360f8f.js",
+    "runtime-main.js.map": "/FinalReactProject/static/js/runtime-main.a3360f8f.js.map",
+    "static/css/2.b5a508fb.chunk.css": "/FinalReactProject/static/css/2.b5a508fb.chunk.css",
+    "static/js/2.8884ed00.chunk.js": "/FinalReactProject/static/js/2.8884ed00.chunk.js",
+    "static/js/2.8884ed00.chunk.js.map": "/FinalReactProject/static/js/2.8884ed00.chunk.js.map",
+    "index.html": "/FinalReactProject/index.html",
+    "static/css/2.b5a508fb.chunk.css.map": "/FinalReactProject/static/css/2.b5a508fb.chunk.css.map",
+    "static/css/main.2dacb072.chunk.css.map": "/FinalReactProject/static/css/main.2dacb072.chunk.css.map",
+    "static/js/2.8884ed00.chunk.js.LICENSE.txt": "/FinalReactProject/static/js/2.8884ed00.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/FinalReactProject/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3360f8f.js",
+    "static/css/2.b5a508fb.chunk.css",
+    "static/js/2.8884ed00.chunk.js",
+    "static/css/main.2dacb072.chunk.css",
+    "static/js/main.56055f36.chunk.js"
+  ]
+}
