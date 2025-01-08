@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dacb072.chunk.css",
-    "main.js": "/static/js/main.11a434bb.chunk.js",
-    "main.js.map": "/static/js/main.11a434bb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.352f33c5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.352f33c5.js.map",
-    "static/css/2.7b8a7a4e.chunk.css": "/static/css/2.7b8a7a4e.chunk.css",
-    "static/js/2.ecc36b98.chunk.js": "/static/js/2.ecc36b98.chunk.js",
-    "static/js/2.ecc36b98.chunk.js.map": "/static/js/2.ecc36b98.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.7b8a7a4e.chunk.css.map": "/static/css/2.7b8a7a4e.chunk.css.map",
-    "static/css/main.2dacb072.chunk.css.map": "/static/css/main.2dacb072.chunk.css.map",
-    "static/js/2.ecc36b98.chunk.js.LICENSE.txt": "/static/js/2.ecc36b98.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+    "main.css": "/FinalReactProject/static/css/main.2dacb072.chunk.css",
+    "main.js": "/FinalReactProject/static/js/main.11a434bb.chunk.js",
+    "main.js.map": "/FinalReactProject/static/js/main.11a434bb.chunk.js.map",
+    "runtime-main.js": "/FinalReactProject/static/js/runtime-main.ff624161.js",
+    "runtime-main.js.map": "/FinalReactProject/static/js/runtime-main.ff624161.js.map",
+    "static/css/2.b5a508fb.chunk.css": "/FinalReactProject/static/css/2.b5a508fb.chunk.css",
+    "static/js/2.07d9f79d.chunk.js": "/FinalReactProject/static/js/2.07d9f79d.chunk.js",
+    "static/js/2.07d9f79d.chunk.js.map": "/FinalReactProject/static/js/2.07d9f79d.chunk.js.map",
+    "index.html": "/FinalReactProject/index.html",
+    "static/css/2.b5a508fb.chunk.css.map": "/FinalReactProject/static/css/2.b5a508fb.chunk.css.map",
+    "static/css/main.2dacb072.chunk.css.map": "/FinalReactProject/static/css/main.2dacb072.chunk.css.map",
+    "static/js/2.07d9f79d.chunk.js.LICENSE.txt": "/FinalReactProject/static/js/2.07d9f79d.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/FinalReactProject/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.352f33c5.js",
-    "static/css/2.7b8a7a4e.chunk.css",
-    "static/js/2.ecc36b98.chunk.js",
+    "static/js/runtime-main.ff624161.js",
+    "static/css/2.b5a508fb.chunk.css",
+    "static/js/2.07d9f79d.chunk.js",
     "static/css/main.2dacb072.chunk.css",
     "static/js/main.11a434bb.chunk.js"
   ]
