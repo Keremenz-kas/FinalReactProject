@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Keremenz-kas/FinalReactProject",
   "name": "disney-replica",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +11,8 @@
     "firebase": "^8.10.1",
     "firebase-tools": "^9.9.0",
     "gh-pages": "^6.3.0",
-    "node": "^18.19.1",
+    "node": "^18.20.5",
+    "nvm": "^0.0.4",
     "postcss": "^8.4.49",
     "postcss-safe-parser": "^7.0.1",
     "react": "^17.0.2",
@@ -26,7 +28,9 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
